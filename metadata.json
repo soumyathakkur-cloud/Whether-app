@@ -1,0 +1,6 @@
+{
+  "name": "WeatherNow",
+  "description": "Smart Weather Forecast Website with real-time weather, 7-day forecast, hourly predictions, detailed atmospheric metrics, and favorite cities in a modern glassmorphism design.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
